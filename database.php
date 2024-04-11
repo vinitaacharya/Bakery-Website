@@ -8,9 +8,7 @@
  
     function getDB(){
     //declare njit credentials
-    $njit_dsn = 'mysql:host=sql1.njit.edu;port=3306;dbname=vka';
-    $njit_username = 'vka';
-    $njit_password = 'It202class#';
+
 
 
     //Change these 3 variable for different server configuration
